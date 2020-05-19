@@ -29,9 +29,9 @@ JavaScript is a high-level programming language that all modern web browsers sup
  JavaScript is an evolving programming language. As features are added and revisions are made, new versions of the language are released for use by developers. The most recent standardized version is called ECMAScript 6 (ES6), released in 2015.
  
 ## Day 4 : (19/5/20) ##  
-    * Arrow functions
-    * Classes
-    * Modules
-    * Promises
-    * Generators
-    * let and const
+   * Arrow functions
+   * Classes
+   * Modules
+   * Promises
+   * Generators
+   * let and const
