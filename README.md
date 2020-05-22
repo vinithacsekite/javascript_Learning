@@ -35,3 +35,7 @@ JavaScript is a high-level programming language that all modern web browsers sup
    * Promises
    * Generators
    * let and const
+
+## Day 5 : (22/5/20) ##
+   * Learned about api and how to get data using api.
+   * Explored " JSON formater " chrome extension.
